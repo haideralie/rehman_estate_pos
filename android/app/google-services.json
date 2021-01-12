@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62867806353",
+    "project_id": "rehman-estate-pos",
+    "storage_bucket": "rehman-estate-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62867806353:android:97c89b19503e2207080730",
+        "android_client_info": {
+          "package_name": "com.rehmanproperties.rehman_estate_pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62867806353-c971o4r1f8c8hfl50uaicpoho4sl6fqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAK9exqYI1jL61gFL-l6OJvAxAJYIcztc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62867806353-c971o4r1f8c8hfl50uaicpoho4sl6fqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
